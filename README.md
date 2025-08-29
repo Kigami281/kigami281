@@ -2,4 +2,4 @@
  My name is Arsene Kigami, a high school graduate of last year. Though having done and passed in computer studies in high school, programming has proven to me that I have to put extra effort to learn as much as I can in this course.
  I have involved myself in the field of technology because of my interest in the subject. It is a nice experience learning about the cyber space as it also has a wide variety of careers. At the moment I would like to learn about the different programming languages and later on be able to get into cyber security. Since I am still a fresh highschool leaver, I have taken the opportunity to come at IYF where i am currently studing about html hoping I will understand it and others to follow.
  This is my first project to do but I am looking forward to accomplish others to come. Though not fully familiar with programming languages I have basic knowledge of Microsoft office and can create a document no problem.
- If interested in my potential I can be reached via email "kigami2006@gmail.com".
+ For communication I can be reached via email {Link of email}[kigami2006@gmail.com]
